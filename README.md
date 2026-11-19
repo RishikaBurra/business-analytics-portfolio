@@ -2,7 +2,7 @@
 
 Welcome to my Business & Data Analytics portfolio! I am an **MBA Business Analytics graduate** with a background in **B.Com (Computer Applications)**, focused on requirement analysis, market research, data visualization, and data-driven business decision-making.
 
-- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- **LinkedIn:** [:www.linkedin.com/in/rishika-burra-3375852a9]
 - **Email:** rishikaburra9@gmail.com
 - **Core Tools:** Advanced MS Excel | SQL | Power BI | BRD & FRD Documentation | Market Research | MIS Reporting
 
